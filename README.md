@@ -14,4 +14,6 @@ Here are some ideas to get you started:
   - E-Mail   : shruti.tyagi@somaiya.edu
   - Linkedin : [tyagishruti](https://www.linkedin.com/in/tyagishruti/)
 
-[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutityagi4102&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutityagi4102&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutityagi4102)](https://github.com/anuraghazra/github-readme-stats)
