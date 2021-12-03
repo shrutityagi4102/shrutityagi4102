@@ -1,5 +1,4 @@
-## Hey there 👋 
-## I am SHRUTI 😁
+## Hey there 👋 \n I am SHRUTI 😁
 
 ## About Me 🤟
 
