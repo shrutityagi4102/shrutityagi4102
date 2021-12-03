@@ -1,15 +1,12 @@
-### Hey there 👋 I am SHRUTI 😁�
+### Hey there 👋 I am SHRUTI 😁
 
-<!--
-**shrutityagi4102/shrutityagi4102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🤟
 
-Here are some ideas to get you started:
-- ⚡ Fun fact: 
--->
 - 💙 I enjoy everything about technology and love learning and researching about any technology related topic ! 
 - 👩‍💻 I am a Computer Engineering Sophomore from Mumbai, India
 - 🌱 I’m currently learning Data Science, Artifical Inteligence and Machine Learning
 - 👯‍♀️ I'm looking to collaborate on any Open-source,Python,Data Science,Artifical Inteligence or Machine learning project
+- 💫 Apart from Coding, I also enjoy traveling, learning new things online, social media marketing, event management, listening to music, watching movies and trying out new cuisines.
 - 🤓 Have a look at my [Resume](https://drive.google.com/file/d/1oxQ2cjJzHFzNkDQbRA6fwHyqqAZmdfoI/view?usp=sharing)
 - 📫 How to reach me
   - E-Mail   : shruti.tyagi@somaiya.edu
