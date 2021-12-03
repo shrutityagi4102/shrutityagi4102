@@ -22,13 +22,11 @@
 - ⭐ Currently Interning as a Software Developement Intern at Ernst & Young India
 - ⭐ Interned in the fields of Machine Learning and Web Developemnt at K.J. Somaiya College of Engineering's Information Technology Department
 - ⭐ I got selected as a Women Engineering Fellow Scholar'21 by Google and Talentsprint. I am one among the top 400 students selected out of the total 27,643 applicants.
-- ⭐ I recieved the AWS Foundations of Machine Learning Scholarship from AWS and Udacity. Check out my nanodegree here - [AWS Machine Learning Foundations](https://confirm.udacity.com/RWTL9L3P)
-- ⭐ Secured Third position in a Business planning event - Plandemic hosted by BloomBox at KJSCE
+- ⭐ I recieved and completed the [AWS Machine Learning Foundations](https://confirm.udacity.com/RWTL9L3P) Nanodegree Scholarship from AWS and Udacity. 
 - ⭐ Completed trainings and online certifications under [30 Days of Google Cloud](https://certificate.givemycertificate.com/c/76077c25-3a95-4000-b519-6dbc10ff330a), Goldman Sachs, CISCO, Univeristy of Michigan, and Indian Railways
-- ⭐ Currently a member of CSI-KJSCE
-- ⭐ Former Member of TEDx Somaiya Vidyavihar, SAHAS and Enactus SSC
+- ⭐ Currently a member of Computer Society of India -KJSCE
 - ⭐ Attended AWS Women in Tech Day and AnitaB.org Open-Source Day Summer 2021
-- ⭐ Brown-2 Karate belt holder and silver and bronze medalist at Inter-School competition
+
 
 
 
