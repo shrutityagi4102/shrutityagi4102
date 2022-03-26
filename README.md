@@ -19,7 +19,7 @@
 
 ## Achievements and Experience ⭐
 
-- Currently Interning as a Software Developement Intern at Ernst & Young India
+- Interned as a Software Developement Intern at Ernst & Young India
 - Interned in the fields of Machine Learning and Web Developemnt at K.J. Somaiya College of Engineering
 - I got selected as a Women Engineering Scholar'21 by Google & Talentsprint. I am one among the top 400 students selected out of the total 27,643 applicants.
 - I recieved and completed the [AWS Machine Learning Foundations](https://confirm.udacity.com/RWTL9L3P) Nanodegree Scholarship from AWS and Udacity. 
