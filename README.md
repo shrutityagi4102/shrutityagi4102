@@ -8,7 +8,7 @@
 - 👯‍♀️ I'm looking to collaborate on any Open-source,Python,Data Science,Artifical Inteligence or Machine learning project
 - 💬 Brainstorm with me over Tech, Data Science and Career
 - 💫 Apart from Coding, I also enjoy traveling, learning new things online, social media marketing, event management, listening to music, watching movies and trying out new cuisines.
-- 🤓 Have a look at my [Resume](https://drive.google.com/file/d/1oxQ2cjJzHFzNkDQbRA6fwHyqqAZmdfoI/view?usp=sharing)
+- 🤓 Have a look at my [Resume](https://drive.google.com/file/d/10xtgO4lHhVn1liVkwaXiNEgrzyhIRiEG/view?usp=sharing)
 - 📫 How to reach me
   - E-Mail   : shruti.tyagi@somaiya.edu
   - Linkedin : [tyagishruti](https://www.linkedin.com/in/tyagishruti/)
