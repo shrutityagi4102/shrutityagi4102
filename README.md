@@ -10,7 +10,7 @@
 - 💫 Apart from Coding, I also enjoy traveling, learning new things online, social media marketing, event management, listening to music, watching movies and trying out new cuisines.
 - 🤓 Have a look at my [Resume](https://drive.google.com/file/d/10xtgO4lHhVn1liVkwaXiNEgrzyhIRiEG/view?usp=sharing)
 - 📫 How to reach me
-  - E-Mail   : shruti.tyagi@somaiya.edu
+  - E-Mail   : shruti.tyagi@somaiya.edu / tyagishruti4102@gmail.com
   - Linkedin : [tyagishruti](https://www.linkedin.com/in/tyagishruti/)
 
 <!-- [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutityagi4102&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)-->
