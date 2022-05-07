@@ -16,9 +16,6 @@
 
 <!-- [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutityagi4102&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2012%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--827%20Thousand%20lines%20of%20code-blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutityagi4102)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Achievements and Experience ⭐
@@ -31,6 +28,9 @@
 - Currently a member of Computer Society of India -KJSCE
 - Attended AWS Women in Tech Day and AnitaB.org Open-Source Day Summer 2021
 
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2012%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--827%20Thousand%20lines%20of%20code-blue)
 
 
 
