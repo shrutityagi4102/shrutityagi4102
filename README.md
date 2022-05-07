@@ -9,13 +9,17 @@
 - 💬 Brainstorm with me over Tech, Data Science and Career
 - 💫 Apart from Coding, I also enjoy traveling, learning new things online, social media marketing, event management, listening to music, watching movies and trying out new cuisines.
 - 🤓 Have a look at my [Resume](https://drive.google.com/file/d/10xtgO4lHhVn1liVkwaXiNEgrzyhIRiEG/view?usp=sharing)
-- 📫 How to reach me
-  - E-Mail   : shruti.tyagi@somaiya.edu / tyagishruti4102@gmail.com
-  - Linkedin : [tyagishruti](https://www.linkedin.com/in/tyagishruti/)
+
+## Contact Me 📫
+- E-Mail   : shruti.tyagi@somaiya.edu / tyagishruti4102@gmail.com
+- Linkedin : [tyagishruti](https://www.linkedin.com/in/tyagishruti/)
 
 <!-- [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutityagi4102&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutityagi4102)](https://github.com/anuraghazra/github-readme-stats)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2012%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--827%20Thousand%20lines%20of%20code-blue)
 
 ## Achievements and Experience ⭐
 
