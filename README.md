@@ -17,11 +17,11 @@
 <!-- [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutityagi4102&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutityagi4102)](https://github.com/anuraghazra/github-readme-stats)
-https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={shrutityagi4102}&theme=vue
+[![Activity Chart](https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal)
+[![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={shrutityagi4102}&theme=vue)
 
 
-## Skills 🛠
+<!-- ## Skills 🛠
 
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -62,7 +62,7 @@ https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=micr
 https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
 https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black -->
 
 ## Achievements and Experience ⭐
 
