@@ -17,9 +17,6 @@
 <!-- [![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=shrutityagi4102&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutityagi4102)](https://github.com/anuraghazra/github-readme-stats)
-[![Activity Chart](https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal)
-[![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={shrutityagi4102}&theme=vue)
-
 
 <!-- ## Skills 🛠
 
