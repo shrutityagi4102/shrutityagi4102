@@ -1,4 +1,6 @@
-## Hey there 👋 I am SHRUTI 😁
+![header](header.jpg)
+
+## <center>Hey there 👋 </center>
 
 ## About Me 🤟
 
