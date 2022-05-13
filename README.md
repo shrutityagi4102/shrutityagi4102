@@ -1,6 +1,6 @@
 ![header](h.jpg)
 
-## <center>Hey there 👋 </center>
+# Hey there 👋 
 
 ## About Me 🤟
 
