@@ -60,7 +60,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--827%20Thousand%20lines%20of%20code-blue)
 
-[![Shruti's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shrutityagi4102&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=shrutityagi4102&theme=minimal)
+<!-- [![Shruti's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shrutityagi4102&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=shrutityagi4102&theme=minimal) -->
 
 
 
