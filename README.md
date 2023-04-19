@@ -4,7 +4,7 @@
 
 ### About Me 🤟
 
-- 👩‍💻 I am a Computer Engineering Sophomore from Mumbai, India
+- 👩‍💻 I am a Computer Engineering Junior from Mumbai, India
 - 💙 I enjoy everything about technology and love learning and researching about any technology related topic ! 
 - 🌱 I’m currently learning Data Science, Artifical Inteligence and Machine Learning
 - 👯‍♀️ I'm looking to collaborate on any Open-source,Python,Data Science,Artifical Inteligence or Machine learning project
